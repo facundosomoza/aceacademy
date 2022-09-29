@@ -1,0 +1,5 @@
+export const NAVBAR_MODES = {
+  PLAYER: 1,
+  SCOUT_NORMAL: 2,
+  SCOUT_MATCHING: 3,
+};

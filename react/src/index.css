@@ -1,0 +1,37 @@
+.logo-small {
+  height: 50px;
+}
+
+.match-logo {
+  height: 30px;
+}
+
+.home-logo {
+  height: 500px;
+}
+
+.profile-image-list {
+  width: 80px;
+}
+
+.btn-primary {
+  background-color: #0d2a19 !important;
+}
+
+.btn-secondary {
+  background-color: #194f31 !important;
+}
+
+.player-card {
+  height: 300px;
+  width: 300px;
+}
+
+.navbar-text {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.player-img-scout-matcher {
+  height: 150px;
+}
